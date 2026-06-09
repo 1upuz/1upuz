@@ -1,9 +1,9 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h1>I'm [Nama Keren Lo] | [Nama Asli]</h1>
+      <h1>I'm Lupuz | Eru XK</h1>
       
-      <p>Hello 👋 I'm <b>[Nama Asli]</b>, seorang pemula di dunia developer yang lagi semangat belajar! Saya tertarik di bidang [sebutin ketertarikan lo, misal: Web Developer / Cyber Security].</p>
+      <p>Hello 👋 I'm <b>Eru</b>, seorang pemula di dunia developer yang lagi semangat belajar! Saya tertarik di bidang El Vibe Coder.</p>
       
       <p>Nice to meet you!</p>
       
