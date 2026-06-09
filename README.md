@@ -1,16 +1,23 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h1>I'm [Nama Keren Lo] | [Nama Asli]</h1>
+      
+      <p>Hello 👋 I'm <b>[Nama Asli]</b>, seorang pemula di dunia developer yang lagi semangat belajar! Saya tertarik di bidang [sebutin ketertarikan lo, misal: Web Developer / Cyber Security].</p>
+      
+      <p>Nice to meet you!</p>
+      
+      <ul>
+        <li>🚀 I'm currently working on: <b>Belajar dasar coding</b></li>
+        <li>💻 Pengen tahu lebih dalam soal: <b>Open Source & Coding</b></li>
+        <li>⚡ Fun fact: <b>Baru aja kelar download VS Code!</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNtNXN5N3M1Mnd0NXF0bXN6ZnN5ZnN5ZnNyNmRnbXQzeXg0cmY4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VvXg0bpwEcabDls9vO/giphy.gif" width="100%" alt="Developer GIF">
+    </td>
+  </tr>
+</table>
 
-<!--
-**1upuz/1upuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Tech Stack
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
