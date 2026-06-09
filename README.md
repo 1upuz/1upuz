@@ -16,7 +16,7 @@
 
 </td>
 <td width="40%" align="center" valign="middle">
-  <img src="https://pin.it/Qsgn21kbH" width="100%" alt="Developer GIF">
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=174021973093269417" height="445" width="345" frameborder="0" scrolling="no" ></iframe>" width="100%" alt="Developer GIF">
 </td>
 </tr>
 </table>
