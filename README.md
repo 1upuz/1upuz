@@ -16,7 +16,7 @@
 
 </td>
 <td width="40%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNtNXN5N3M1Mnd0NXF0bXN6ZnN5ZnN5ZnNyNmRnbXQzeXg0cmY4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VvXg0bpwEcabDls9vO/giphy.gif" width="100%" alt="Developer GIF">
+  <img src="https://pin.it/Qsgn21kbH" width="100%" alt="Developer GIF">
 </td>
 </tr>
 </table>
