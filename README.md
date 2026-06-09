@@ -16,7 +16,7 @@
 
 </td>
 <td width="40%" align="center" valign="middle">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=174021973093269417" height="445" width="345" frameborder="0" scrolling="no" ></iframe>" width="100%" alt="Developer GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNtNXN5N3M1Mnd0NXF0bXN6ZnN5ZnN5ZnNyNmRnbXQzeXg0cmY4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VvXg0bpwEcabDls9vO/giphy.gif" width="100%" alt="Developer GIF">
 </td>
 </tr>
 </table>
